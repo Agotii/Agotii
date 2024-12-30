@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Agotii, I'm currently at Uni in Math but i want to explore more of Computer Science and in the future create my own project so I'm open to everyone and every advice :).
 <!--
 **Agotii/Agotii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
